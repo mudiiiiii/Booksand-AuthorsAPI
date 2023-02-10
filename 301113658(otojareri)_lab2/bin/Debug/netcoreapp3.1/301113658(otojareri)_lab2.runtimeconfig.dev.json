@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\otoja\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\otoja\\.nuget\\packages"
+    ]
+  }
+}

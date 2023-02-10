@@ -1,0 +1,7 @@
+C:\Users\otoja\source\repos\301113658(otojareri)_lab2\301113658(otojareri)_lab2\obj\Debug\netcoreapp3.1\301113658(otojareri)_lab2.csproj.AssemblyReference.cache
+C:\Users\otoja\source\repos\301113658(otojareri)_lab2\301113658(otojareri)_lab2\obj\Debug\netcoreapp3.1\BooksWindow.g.cs
+C:\Users\otoja\source\repos\301113658(otojareri)_lab2\301113658(otojareri)_lab2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\otoja\source\repos\301113658(otojareri)_lab2\301113658(otojareri)_lab2\obj\Debug\netcoreapp3.1\ViewWindow.g.cs
+C:\Users\otoja\source\repos\301113658(otojareri)_lab2\301113658(otojareri)_lab2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\otoja\source\repos\301113658(otojareri)_lab2\301113658(otojareri)_lab2\obj\Debug\netcoreapp3.1\301113658(otojareri)_lab2_MarkupCompile.cache
+C:\Users\otoja\source\repos\301113658(otojareri)_lab2\301113658(otojareri)_lab2\obj\Debug\netcoreapp3.1\301113658(otojareri)_lab2_MarkupCompile.lref

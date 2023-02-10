@@ -1,0 +1,27 @@
+﻿<Window x:Class="_301113658_otojareri__lab2.BooksWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_301113658_otojareri__lab2"
+        mc:Ignorable="d"
+        Title="BooksWindow" Height="450" Width="800">
+    <StackPanel>
+        <Border Margin="0,0,0,20" Background="CadetBlue">
+            <Label x:Name="usernameLabel" FontSize="20px" Height="50px">Welcome</Label>
+        </Border>
+        <ListView x:Name="bookList" Margin="0,6,10,59" MouseDoubleClick="booklistClick" Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border CornerRadius="1" BorderBrush="Teal" BorderThickness="2">
+                        <StackPanel Margin="5,10,5,10">
+                            <TextBlock Text="{Binding bookname}" FontWeight="Bold" FontSize="18" Margin="5,2,5,2"/>
+                            <TextBlock Text="{Binding author}" FontWeight="Normal" FontSize="12" Margin="5,2,5,2"/>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Height="47" Width="178" Click="signoutClick" Background="Azure" FontSize="18px">Sign Out</Button>
+    </StackPanel>
+</Window>
